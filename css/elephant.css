@@ -1,0 +1,9 @@
+body{
+    font-family: Courier New;
+    background-color: rgb(73, 64, 17);
+    text-align: center;
+    color: rgb(0, 255, 128);
+  }
+  a{
+    color: rgb(0, 149, 255)
+  }
